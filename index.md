@@ -1,4 +1,4 @@
-# Hello World
+# Hello World, Joshua Here!
 
 This is my home page! My name is Joshua Larracas and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
